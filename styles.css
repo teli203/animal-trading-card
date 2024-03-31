@@ -12,3 +12,7 @@ h3 {
 img {
     width: 300px;  
 }
+
+p {
+    font-style: italic;
+}
