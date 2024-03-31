@@ -1,3 +1,8 @@
+body {
+    width: 300px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
 
 h3 {
     font: bold 38 'Times New Roman' serif ;
