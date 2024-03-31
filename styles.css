@@ -1,8 +1,12 @@
 body {
     width: 300px;
     margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 40px;
     padding: 0 11px;
     border: 1px solid rgb(223, 221, 221);
+    box-shadow: 0 0 10px rgb(4, 4, 4);
+  
 }
 
 h3 {
@@ -10,7 +14,7 @@ h3 {
     padding-right: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
-    border: 1px solid rgb(223, 221, 221);
+    border: 1px solid rgb(194, 193, 193);
 }
 
 img {
@@ -25,6 +29,7 @@ img {
     padding-bottom: 15px;
     padding-left: 10px;
     border: 1px solid rgb(223, 221, 221);
+    margin-bottom: 15px;
 
 }
 
