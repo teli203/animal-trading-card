@@ -1,6 +1,7 @@
 ![Sir Knight](https://github.com/teli203/animal-trading-card/assets/68035449/05f50f45-f33d-46ca-8c52-0556b7967d92)
 
 # animal-trading-card
+<a href="UI/UX-prototype-animal-trading-card.png">Memo from UI/UX Design Team</a>
 
 ## Description
 As a web developer I was given a prototpe of an animal trading card and asked to replicate it with my own animal of choice. Aye.. here it is SIR KNIGHT The Black Lab puppy😍.
