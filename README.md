@@ -5,7 +5,7 @@
 ![Sir Knight](https://github.com/teli203/animal-trading-card/assets/68035449/05f50f45-f33d-46ca-8c52-0556b7967d92)
 
 ## Description
-As a web developer I was given a mock prototpe of an animal trading card and asked to replicate it with my own animal of choice. This is the first project completed in the Udacity Frontend Web Development Nanodegree program. Aye.. here it is SIR KNIGHT The Black Lab puppy😍.
+As a web developer I was given a mock prototype of an animal trading card and asked to replicate it with my own animal of choice. This is the first project completed in the Udacity Frontend Web Development Nanodegree program. Aye.. here it is SIR KNIGHT The Black Lab puppy😍.
 
 ✨I love bringing UI/UX Designs to life with code✨
 
