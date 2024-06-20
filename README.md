@@ -1,11 +1,11 @@
-# ⭐️ ✨ Memo from UI/UX Design Team ✨ ⭐️
+# ⭐️ ✨ Mock Memo from UI/UX Mock Design Team AKA Project 1 for Udacity Frontend Web Development Program ✨ ⭐️
 ![UI:UX-prototype-animal-trading-card](https://github.com/teli203/animal-trading-card/assets/68035449/ac88f9f9-7bd9-4408-9257-a87be0988ad1)
 
 # Task COMPLETED Animal-Trading-Card
 ![Sir Knight](https://github.com/teli203/animal-trading-card/assets/68035449/05f50f45-f33d-46ca-8c52-0556b7967d92)
 
 ## Description
-As a web developer I was given a prototpe of an animal trading card and asked to replicate it with my own animal of choice. Aye.. here it is SIR KNIGHT The Black Lab puppy😍.
+As a web developer I was given a mock prototpe of an animal trading card and asked to replicate it with my own animal of choice. This is the first project completed in the Udacity Frontend Web Development Nanodegree program. Aye.. here it is SIR KNIGHT The Black Lab puppy😍.
 
 ✨I love bringing UI/UX Designs to life with code✨
 
